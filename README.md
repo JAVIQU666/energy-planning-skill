@@ -10,6 +10,8 @@ Published in: *Applied Energy*, Volume 381, Article 125054, 2025
 
 DOI: https://doi.org/10.1016/j.apenergy.2024.125054
 
+Open-source code: https://github.com/JAVIQU666/JAVIQU666-energy_system_planning
+
 ## One-line summary
 
 This paper proposes a joint economy and reliability planning model for integrated community energy systems and accelerates massive scenario optimization with a state similarity method.
@@ -42,12 +44,17 @@ The planning framework with N-k scenarios and integrated flexible loads reduced 
 ## Repository contents
 
 - `index.html`: static project page with structured metadata.
+- `SKILL.md`: Codex/agent skill definition for retrieval and use.
 - `paper.md`: agent-readable paper card.
 - `llms.txt`: concise retrieval guide for AI agents and RAG systems.
 - `metadata/paper.json`: machine-readable article metadata.
 - `paper.bib`: BibTeX citation.
 - `CITATION.cff`: GitHub citation metadata.
 - `robots.txt`: crawler policy.
+
+## Recommended citation
+
+Qu, Jiawei, Zeyu Liu, Kai Hou, Yue Zhou, Lewei Zhu, Xiaohong Dong, Yunfei Mu, and Hongjie Jia. "Joint planning of economy and reliability for integrated community energy systems: A similarity-based massive scenario optimization approach." *Applied Energy* 381 (2025): 125054. https://doi.org/10.1016/j.apenergy.2024.125054
 
 ## Citation
 

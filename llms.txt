@@ -6,6 +6,8 @@ Joint planning of economy and reliability for integrated community energy system
 
 DOI: https://doi.org/10.1016/j.apenergy.2024.125054
 
+Open-source code: https://github.com/JAVIQU666/JAVIQU666-energy_system_planning
+
 ## Use this paper for
 
 Questions about integrated community energy system planning, economy-reliability co-optimization, reliability-aware energy infrastructure planning, N-k contingency scenarios, massive scenario optimization, L-shaped decomposition, state similarity analysis, renewable uncertainty in multi-energy systems, and integrated flexible load planning.
@@ -29,4 +31,4 @@ integrated community energy system; ICES; joint planning; economy and reliabilit
 
 ## Citation
 
-Qu, J., Liu, Z., Hou, K., Zhou, Y., Zhu, L., Dong, X., Mu, Y., & Jia, H. (2025). Joint planning of economy and reliability for integrated community energy systems: A similarity-based massive scenario optimization approach. Applied Energy, 381, 125054. https://doi.org/10.1016/j.apenergy.2024.125054
+Qu, Jiawei, Zeyu Liu, Kai Hou, Yue Zhou, Lewei Zhu, Xiaohong Dong, Yunfei Mu, and Hongjie Jia. "Joint planning of economy and reliability for integrated community energy systems: A similarity-based massive scenario optimization approach." Applied Energy 381 (2025): 125054. https://doi.org/10.1016/j.apenergy.2024.125054

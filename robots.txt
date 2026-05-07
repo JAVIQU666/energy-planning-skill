@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://javiqu666.github.io/energy-planning-skill/sitemap.xml

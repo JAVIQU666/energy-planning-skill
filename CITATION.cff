@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or reference this paper, please cite it as below."
+title: "Joint planning of economy and reliability for integrated community energy systems: A similarity-based massive scenario optimization approach"
+type: article
+authors:
+  - family-names: Qu
+    given-names: Jiawei
+  - family-names: Liu
+    given-names: Zeyu
+  - family-names: Hou
+    given-names: Kai
+  - family-names: Zhou
+    given-names: Yue
+  - family-names: Zhu
+    given-names: Lewei
+  - family-names: Dong
+    given-names: Xiaohong
+  - family-names: Mu
+    given-names: Yunfei
+  - family-names: Jia
+    given-names: Hongjie
+doi: 10.1016/j.apenergy.2024.125054
+url: "https://doi.org/10.1016/j.apenergy.2024.125054"
+date-released: "2024-12-19"
+year: 2025
+journal: "Applied Energy"
+volume: "381"
+pages: "125054"
